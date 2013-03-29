@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9AFF1BB4170548080094012B"
+               BlueprintIdentifier = "9AFF1BFE170548EE0094012B"
                BuildableName = "pre-scblife.app"
                BlueprintName = "pre-scblife"
                ReferencedContainer = "container:pre-scblife.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9AFF1BDD170548080094012B"
+               BlueprintIdentifier = "9AFF1C27170548EE0094012B"
                BuildableName = "pre-scblifeTests.octest"
                BlueprintName = "pre-scblifeTests"
                ReferencedContainer = "container:pre-scblife.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AFF1BB4170548080094012B"
+            BlueprintIdentifier = "9AFF1BFE170548EE0094012B"
             BuildableName = "pre-scblife.app"
             BlueprintName = "pre-scblife"
             ReferencedContainer = "container:pre-scblife.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AFF1BB4170548080094012B"
+            BlueprintIdentifier = "9AFF1BFE170548EE0094012B"
             BuildableName = "pre-scblife.app"
             BlueprintName = "pre-scblife"
             ReferencedContainer = "container:pre-scblife.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AFF1BB4170548080094012B"
+            BlueprintIdentifier = "9AFF1BFE170548EE0094012B"
             BuildableName = "pre-scblife.app"
             BlueprintName = "pre-scblife"
             ReferencedContainer = "container:pre-scblife.xcodeproj">
